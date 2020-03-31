@@ -2,4 +2,4 @@
 
 ## Realtime Messaging
 
-![](docs/assets/feathrs-basic-reatime-messaging.gif)
+![Feathers Basics Realtime Demo](docs/assets/feathers-basic-realtime-messaging.gif)
